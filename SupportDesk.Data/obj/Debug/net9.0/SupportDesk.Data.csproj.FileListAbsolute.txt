@@ -1,0 +1,12 @@
+C:\Users\1340-23\Desktop\Example\SupportDesk\SupportDesk.Data\bin\Debug\net9.0\SupportDesk.Data.deps.json
+C:\Users\1340-23\Desktop\Example\SupportDesk\SupportDesk.Data\bin\Debug\net9.0\SupportDesk.Data.dll
+C:\Users\1340-23\Desktop\Example\SupportDesk\SupportDesk.Data\bin\Debug\net9.0\SupportDesk.Data.pdb
+C:\Users\1340-23\Desktop\Example\SupportDesk\SupportDesk.Data\obj\Debug\net9.0\SupportDesk.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1340-23\Desktop\Example\SupportDesk\SupportDesk.Data\obj\Debug\net9.0\SupportDesk.Data.AssemblyInfoInputs.cache
+C:\Users\1340-23\Desktop\Example\SupportDesk\SupportDesk.Data\obj\Debug\net9.0\SupportDesk.Data.AssemblyInfo.cs
+C:\Users\1340-23\Desktop\Example\SupportDesk\SupportDesk.Data\obj\Debug\net9.0\SupportDesk.Data.csproj.CoreCompileInputs.cache
+C:\Users\1340-23\Desktop\Example\SupportDesk\SupportDesk.Data\obj\Debug\net9.0\SupportDesk.Data.sourcelink.json
+C:\Users\1340-23\Desktop\Example\SupportDesk\SupportDesk.Data\obj\Debug\net9.0\SupportDesk.Data.dll
+C:\Users\1340-23\Desktop\Example\SupportDesk\SupportDesk.Data\obj\Debug\net9.0\refint\SupportDesk.Data.dll
+C:\Users\1340-23\Desktop\Example\SupportDesk\SupportDesk.Data\obj\Debug\net9.0\SupportDesk.Data.pdb
+C:\Users\1340-23\Desktop\Example\SupportDesk\SupportDesk.Data\obj\Debug\net9.0\ref\SupportDesk.Data.dll

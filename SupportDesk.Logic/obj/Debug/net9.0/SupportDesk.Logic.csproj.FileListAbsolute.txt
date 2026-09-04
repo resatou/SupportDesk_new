@@ -1,0 +1,16 @@
+C:\Users\1340-23\Desktop\Example\SupportDesk\SupportDesk.Logic\bin\Debug\net9.0\SupportDesk.Logic.deps.json
+C:\Users\1340-23\Desktop\Example\SupportDesk\SupportDesk.Logic\bin\Debug\net9.0\SupportDesk.Logic.dll
+C:\Users\1340-23\Desktop\Example\SupportDesk\SupportDesk.Logic\bin\Debug\net9.0\SupportDesk.Logic.pdb
+C:\Users\1340-23\Desktop\Example\SupportDesk\SupportDesk.Logic\bin\Debug\net9.0\SupportDesk.Data.dll
+C:\Users\1340-23\Desktop\Example\SupportDesk\SupportDesk.Logic\bin\Debug\net9.0\SupportDesk.Data.pdb
+C:\Users\1340-23\Desktop\Example\SupportDesk\SupportDesk.Logic\obj\Debug\net9.0\SupportDesk.Logic.csproj.AssemblyReference.cache
+C:\Users\1340-23\Desktop\Example\SupportDesk\SupportDesk.Logic\obj\Debug\net9.0\SupportDesk.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1340-23\Desktop\Example\SupportDesk\SupportDesk.Logic\obj\Debug\net9.0\SupportDesk.Logic.AssemblyInfoInputs.cache
+C:\Users\1340-23\Desktop\Example\SupportDesk\SupportDesk.Logic\obj\Debug\net9.0\SupportDesk.Logic.AssemblyInfo.cs
+C:\Users\1340-23\Desktop\Example\SupportDesk\SupportDesk.Logic\obj\Debug\net9.0\SupportDesk.Logic.csproj.CoreCompileInputs.cache
+C:\Users\1340-23\Desktop\Example\SupportDesk\SupportDesk.Logic\obj\Debug\net9.0\SupportDesk.Logic.sourcelink.json
+C:\Users\1340-23\Desktop\Example\SupportDesk\SupportDesk.Logic\obj\Debug\net9.0\SupportD.2F430D79.Up2Date
+C:\Users\1340-23\Desktop\Example\SupportDesk\SupportDesk.Logic\obj\Debug\net9.0\SupportDesk.Logic.dll
+C:\Users\1340-23\Desktop\Example\SupportDesk\SupportDesk.Logic\obj\Debug\net9.0\refint\SupportDesk.Logic.dll
+C:\Users\1340-23\Desktop\Example\SupportDesk\SupportDesk.Logic\obj\Debug\net9.0\SupportDesk.Logic.pdb
+C:\Users\1340-23\Desktop\Example\SupportDesk\SupportDesk.Logic\obj\Debug\net9.0\ref\SupportDesk.Logic.dll

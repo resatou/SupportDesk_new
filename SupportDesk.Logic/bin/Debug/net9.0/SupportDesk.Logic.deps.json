@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "SupportDesk.Logic/1.0.0": {
+        "dependencies": {
+          "SupportDesk.Data": "1.0.0"
+        },
+        "runtime": {
+          "SupportDesk.Logic.dll": {}
+        }
+      },
+      "SupportDesk.Data/1.0.0": {
+        "runtime": {
+          "SupportDesk.Data.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SupportDesk.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SupportDesk.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
