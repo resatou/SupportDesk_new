@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\1340-23\\Desktop\\Example\\SupportDesk\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2698D7AA-02AB-402B-915A-A41BAC47FF12}|SupportDesk.Logic\\SupportDesk.Logic.csproj|c:\\users\\1340-23\\desktop\\example\\supportdesk\\supportdesk.logic\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2698D7AA-02AB-402B-915A-A41BAC47FF12}|SupportDesk.Logic\\SupportDesk.Logic.csproj|solutionrelative:supportdesk.logic\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{307B6A5F-20A8-4769-B72F-DCE96F11274C}|SupportDesk.Data\\SupportDesk.Data.csproj|c:\\users\\1340-23\\desktop\\example\\supportdesk\\supportdesk.data\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{307B6A5F-20A8-4769-B72F-DCE96F11274C}|SupportDesk.Data\\SupportDesk.Data.csproj|solutionrelative:supportdesk.data\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{307B6A5F-20A8-4769-B72F-DCE96F11274C}|SupportDesk.Data\\SupportDesk.Data.csproj|c:\\users\\1340-23\\desktop\\example\\supportdesk\\supportdesk.data\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{307B6A5F-20A8-4769-B72F-DCE96F11274C}|SupportDesk.Data\\SupportDesk.Data.csproj|solutionrelative:supportdesk.data\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{33699AA3-4578-4518-82F1-51714A12FAA4}|SupportDesk\\SupportDesk.csproj|c:\\users\\1340-23\\desktop\\example\\supportdesk\\supportdesk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33699AA3-4578-4518-82F1-51714A12FAA4}|SupportDesk\\SupportDesk.csproj|solutionrelative:supportdesk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Users\\1340-23\\Desktop\\Example\\SupportDesk\\SupportDesk.Logic\\TicketService.cs",
+              "RelativeDocumentMoniker": "SupportDesk.Logic\\TicketService.cs",
+              "ToolTip": "C:\\Users\\1340-23\\Desktop\\Example\\SupportDesk\\SupportDesk.Logic\\TicketService.cs",
+              "RelativeToolTip": "SupportDesk.Logic\\TicketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T07:46:20.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\1340-23\\Desktop\\Example\\SupportDesk\\SupportDesk.Data\\TicketRepository.cs",
+              "RelativeDocumentMoniker": "SupportDesk.Data\\TicketRepository.cs",
+              "ToolTip": "C:\\Users\\1340-23\\Desktop\\Example\\SupportDesk\\SupportDesk.Data\\TicketRepository.cs",
+              "RelativeToolTip": "SupportDesk.Data\\TicketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T07:44:50.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\1340-23\\Desktop\\Example\\SupportDesk\\SupportDesk.Data\\Ticket.cs",
+              "RelativeDocumentMoniker": "SupportDesk.Data\\Ticket.cs",
+              "ToolTip": "C:\\Users\\1340-23\\Desktop\\Example\\SupportDesk\\SupportDesk.Data\\Ticket.cs",
+              "RelativeToolTip": "SupportDesk.Data\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T07:44:37.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\1340-23\\Desktop\\Example\\SupportDesk\\SupportDesk\\Program.cs",
               "RelativeDocumentMoniker": "SupportDesk\\Program.cs",
               "ToolTip": "C:\\Users\\1340-23\\Desktop\\Example\\SupportDesk\\SupportDesk\\Program.cs",
               "RelativeToolTip": "SupportDesk\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-04T07:09:15.416Z",
               "EditorCaption": ""
